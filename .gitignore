@@ -1,2 +1,4 @@
-data/spectrogram
+**/data/**
 *-checkpoint.ipynb
+**/backup/**
+**/temp_data/**
